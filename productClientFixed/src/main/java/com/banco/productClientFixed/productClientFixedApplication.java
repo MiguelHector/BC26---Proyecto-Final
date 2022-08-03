@@ -1,0 +1,12 @@
+package com.banco.productClientFixed;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class productClientFixedApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(productClientFixedApplication.class, args);
+    }
+}
